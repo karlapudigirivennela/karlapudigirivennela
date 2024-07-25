@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karlapudigirivennela
+- 👋 Hi, I’m @girivennela
 - 👀 I’m interested in ...
 - 🌱 I’m currently working ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-karlapudigirivennela/karlapudigirivennela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+girivennela/girivennela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> girivennela
 
